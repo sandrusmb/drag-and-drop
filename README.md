@@ -17,7 +17,7 @@ Para ello, he seguido un [tutorial](https://www.youtube.com/watch?v=tZ45HZAkbLc)
 - La propiedad [flex](https://developer.mozilla.org/es/docs/Web/CSS/flex) de CSS, una propiedad resumida que indica la capacidad de un elemento flexible para alterar sus dimensiones y llenar el espacio disponible
 - La propiedad [overflow-x: scroll](https://developer.mozilla.org/es/docs/Web/CSS/overflow)
 - La propiedad de CSS [transition](https://css-tricks.com/almanac/properties/t/transition/)
-- Los [eventos de drag and drop](https://www.desarrollolibre.net/blog/html/el-drag-and-drop-en-html5-javascript#.XjrjjRNKjpI) como [dragstart](https://developer.mozilla.org/en-US/docs/Web/API/Document/dragstart_event), dragend, dragover, dragenter,dragleave y drop >> https://developer.mozilla.org/es/docs/DragDrop/Drag_and_Drop
+- Los [eventos de drag and drop](https://www.desarrollolibre.net/blog/html/el-drag-and-drop-en-html5-javascript#.XjrjjRNKjpI) como dragstart, dragend, dragover, dragenter,dragleave y drop
 - El método [setTimeout()](https://developer.mozilla.org/es/docs/Web/API/WindowTimers/setTimeout)
 - Las propiedades del DOM [this.style.display](https://www.w3schools.com/jsref/prop_style_display.asp) o this.style.backgroundColor...
 
