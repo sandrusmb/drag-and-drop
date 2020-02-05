@@ -29,6 +29,7 @@ body {
   flex: 1;
   width: 100%;
   overflow-x: scroll;
+  justify-content: center;
 }
 
 .list {
