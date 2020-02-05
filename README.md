@@ -1,5 +1,7 @@
 # Drag and drop
 
+![Demo](https://github.com/sandrusmb/drag-and-drop/blob/master/images/dragAndDropRRSS.gif)
+
 Con lo que nos gusta Trello a las adalabers, me he propuesto aprender a programar un tablero en el que las tareas se puedan arrastrar y soltar por las diferentes listas.
 
 Para ello, he seguido un [tutorial](https://www.youtube.com/watch?v=tZ45HZAkbLc) de Tyler Potts.
