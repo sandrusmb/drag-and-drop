@@ -28,8 +28,18 @@ for (let i = 0; i < list_item.length; i++) {
       ev.preventDefault();
     });
 
+    list.addEventListener("dragenter", function(ev) {
+      ev.preventDefault();
+      this.style.backgroundColor = "rgba(0,0,0,0.2)";
+    });
+
+    list.addEventListener("dragleave", function(ev) {
+      this.style.backgroundColor = "rgba(0,0,0,0.1)";
+    });
+
     list.addEventListener("drop", function(ev) {
       this.append(draggedItem);
+      this.style.backgroundColor = "rgba(0,0,0,0.1)";
     });
   }
 }
