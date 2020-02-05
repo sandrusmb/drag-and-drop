@@ -16,6 +16,7 @@ Para ello, he seguido un [tutorial](https://www.youtube.com/watch?v=tZ45HZAkbLc)
 - La propiedad [overflow-x](https://developer.mozilla.org/es/docs/Web/CSS/overflow): scroll 
 - La propiedad de CSS [transition](https://css-tricks.com/almanac/properties/t/transition/)
 - El evento [dragstart](https://developer.mozilla.org/en-US/docs/Web/API/Document/dragstart_event)
+- El método [setTimeout()](https://developer.mozilla.org/es/docs/Web/API/WindowTimers/setTimeout)
 
 ## Guía de inicio rápido
 
