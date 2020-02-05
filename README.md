@@ -13,11 +13,11 @@ Para ello, he seguido un [tutorial](https://www.youtube.com/watch?v=tZ45HZAkbLc)
 
 - La propiedad de CSS [flex-flow](https://developer.mozilla.org/es/docs/Web/CSS/flex-flow), un atajo para las propiedades individuales flex-direction y flex-wrap
 - La propiedad [flex](https://developer.mozilla.org/es/docs/Web/CSS/flex) de CSS, una propiedad resumida que indica la capacidad de un elemento flexible para alterar sus dimensiones y llenar el espacio disponible
-- La propiedad [overflow-x: scroll](https://developer.mozilla.org/es/docs/Web/CSS/overflow): scroll 
+- La propiedad [overflow-x: scroll](https://developer.mozilla.org/es/docs/Web/CSS/overflow)
 - La propiedad de CSS [transition](https://css-tricks.com/almanac/properties/t/transition/)
 - El evento [dragstart](https://developer.mozilla.org/en-US/docs/Web/API/Document/dragstart_event)
 - El método [setTimeout()](https://developer.mozilla.org/es/docs/Web/API/WindowTimers/setTimeout)
-- La propiedad del DOM [object.style.display](https://www.w3schools.com/jsref/prop_style_display.asp)
+- La propiedad del DOM [.style.display](https://www.w3schools.com/jsref/prop_style_display.asp)
 
 ## Guía de inicio rápido
 
