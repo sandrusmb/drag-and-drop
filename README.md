@@ -4,6 +4,11 @@ Con lo que nos gusta Trello a las adalabers, me he propuesto aprender a programa
 
 Para ello, he seguido un [tutorial](https://www.youtube.com/watch?v=tZ45HZAkbLc) de Tyler Potts. 
 
+## Retos
+
+- Utilizar el atributo [draggable](https://developer.mozilla.org/es/docs/Web/HTML/Atributos_Globales/draggable) de HTML que indica si un elemento puede ser arrastrado
+- Usar el HTML [Drag and Drop API](https://www.w3schools.com/html/html5_draganddrop.asp)
+
 ## Guía de inicio rápido
 
 Necesitarás instalar [Node.js](https://nodejs.org/) y [Gulp](https://gulpjs.com) para trabajar con este Starter Kit, luego:
